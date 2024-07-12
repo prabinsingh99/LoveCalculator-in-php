@@ -1,5 +1,14 @@
 <!-- ADVERTISEMENT FOOTER -->
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'c64b2a55e53369cb87a0a462f088d141',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/c64b2a55e53369cb87a0a462f088d141/invoke.js"></script>
 <!-- ADVERTISEMENT FOOTER -->
 
 
@@ -14,14 +23,5 @@
 		<p class="text-center text-muted">© <?php echo date('Y') . " " . $domainName; ?></p>
 		
 	  </footer>
-	  <script type="text/javascript">
-	atOptions = {
-		'key' : 'c64b2a55e53369cb87a0a462f088d141',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/c64b2a55e53369cb87a0a462f088d141/invoke.js"></script>
+	  
 	</div>
