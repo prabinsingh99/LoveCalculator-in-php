@@ -80,10 +80,7 @@ if (isset($_GET['calculate'])) {
        </div>
 
         <br>
-        
-        <div class="row">
-        <p style="text-align: center;">Short Description</p>
-        </div>
+       
 
         <!-- ADVERTISEMENT Code -->
         
@@ -93,19 +90,7 @@ if (isset($_GET['calculate'])) {
         <!-- ADVERTISEMENT Code -->
 
         <!-- Add Your Content -->
-        <div class="row">
-            <h2 style="text-align: center;">H2 Heading</h2> 
-            <p style="text-align: center;">Content text here</p>
         
-            <!-- Add IMG -->
-            <?php
-                // Replace "path/to/your/image.jpg" with the actual path to your image.
-                $imagePath = "IMGUrl";
-            ?>
-            <!-- Responsive image with PHP variable -->
-            <img src="<?php echo $imagePath; ?>" alt="Responsive Image" class="responsive-img">
-            <!-- Add IMG --> 
-        </div>
         <!-- Add Your Content -->
 
         <?php include("./footer.php"); ?>
